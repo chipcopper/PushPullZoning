@@ -29,7 +29,7 @@ $ ./pushZoning.bash
 PUSH zoning information
 Username: admin
 Password:
-IP Address: 192.168.4.5
+IP Address: 192.168.1.2
 Secure http (y/n) [n]:
 Activate config (y/n) [y]:
 Aliases pushed
