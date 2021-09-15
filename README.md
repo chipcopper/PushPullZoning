@@ -20,7 +20,7 @@ $ ./pullZoning.bash
 PULL zoning information
 Username: admin
 Password:
-IP Address: 10.155.2.83
+IP Address: 10.1.2.3
 Secure http (y/n) [n]:
 Pull completed
 
@@ -29,7 +29,7 @@ $ ./pushZoning.bash
 PUSH zoning information
 Username: admin
 Password:
-IP Address: 192.168.4.100
+IP Address: 192.168.4.5
 Secure http (y/n) [n]:
 Activate config (y/n) [y]:
 Aliases pushed
